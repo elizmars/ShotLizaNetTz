@@ -1,0 +1,12 @@
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\ShotEzlizavetaNetTz.exe.config
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\ShotEzlizavetaNetTz.exe
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\ShotEzlizavetaNetTz.pdb
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\EntityFramework.dll
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\EntityFramework.xml
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\obj\Release\ShotEzlizavetaNetTz.csproj.CoreCompileInputs.cache
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\obj\Release\ShotEzlizavetaNetTz.csproj.CopyComplete
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\obj\Release\ShotEzlizavetaNetTz.exe
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\obj\Release\ShotEzlizavetaNetTz.pdb
+C:\Users\shote\Desktop\ShotEzlizavetaNetTz\ShotEzlizavetaNetTz\obj\Release\ShotEzlizavetaNetTz.csprojAssemblyReference.cache
